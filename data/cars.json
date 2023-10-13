@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Tesla Model S",
+        "price": 500000.00,
+        "battery": 100.00,
+        "potency": 500,
+        "rechargeTime": 120,
+        "photoUrl": "https://gian881.github.io/images/carro.png"
+    },
+    {
+        "id": 2,
+        "name": "Nissan Leaf",
+        "price": 200000.00,
+        "battery": 40.00,
+        "potency": 150,
+        "rechargeTime": 60,
+        "photoUrl": "https://gian881.github.io/images/carro.png"
+    },
+    {
+        "id": 3,
+        "name": "Chevrolet Bolt",
+        "price": 250000.00,
+        "battery": 60.00,
+        "potency": 200,
+        "rechargeTime": 90,
+        "photoUrl": "https://gian881.github.io/images/carro.png"
+    }
+]
